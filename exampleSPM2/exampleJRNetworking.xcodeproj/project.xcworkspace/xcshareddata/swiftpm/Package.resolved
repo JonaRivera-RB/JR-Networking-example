@@ -1,0 +1,15 @@
+{
+  "originHash" : "b62aa3c211353fa5333a4fbb7384bfdee5301fab3f1c4f17baa564605c865319",
+  "pins" : [
+    {
+      "identity" : "jr-networking",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/JonaRivera-RB/JR-Networking",
+      "state" : {
+        "branch" : "main",
+        "revision" : "758bb7db756f2675d3c9aff11f67c5320aed139d"
+      }
+    }
+  ],
+  "version" : 3
+}
